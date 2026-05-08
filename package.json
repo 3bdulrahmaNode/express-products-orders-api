@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --watch main.js",
+    "dev":"nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
